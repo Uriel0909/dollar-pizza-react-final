@@ -1,12 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@300&family=Ibarra+Real+Nova:ital@1&family=Ubuntu:ital,wght@0,300;0,400;1,300&display=swap');
+
+
 .Menu {
   background-image: linear-gradient(to right top, #b40000, #ca3929, #de5c4c, #ef7c70, #fe9c93);
 
 }
 
 .Menu .primary-text{
-  padding-top: 5%
+  padding-top: 5%;
+  margin-left:150px;
+  font-size:100px;
+  font-family: 'Ubuntu', sans-serif;
+  color:white;
 }
 
 .Menu .secondary-text{
-  padding-bottom: 3%
+  padding-bottom: 3%;
+  margin-left:600px;
+  font-size:50px;
+  font-family: 'Ubuntu', sans-serif;
+  color:white;
+
 }
+
+.menu-text{margin-left:100px;}

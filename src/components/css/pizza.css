@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@300&family=Ibarra+Real+Nova:ital@1&family=Ubuntu:ital,wght@0,300;0,400;1,300&display=swap');
+
 .Pizza {
   height: 50vh;
   background: url(../images/pizza-splash.jpg);
@@ -7,4 +9,13 @@
 
 .Pizza .header-text {
   padding-top: 8%;
+  margin-left:150px;
+  color:white;
+  font-size:150px;
+  font-family: 'Ibarra Real Nova', serif;
+
+
+  
 }
+
+
